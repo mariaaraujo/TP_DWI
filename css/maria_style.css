@@ -6,8 +6,8 @@
 body{
     margin: 50px 50px;
     background-color: rgba(236, 236, 232, 0.452);
-    padding-left: 20px ;
-    border-left: solid 150px #6B342F;
+    padding-left: 25px ;
+    border-left: solid 150px #733838;
 }
 
 a{
@@ -27,6 +27,10 @@ img{
     margin-bottom: 3%;
 }
 
+h2{
+    text-decoration: underline 5px #733838;
+}
+
 p{
     text-align: justify;
     text-indent: 4em;
@@ -40,8 +44,8 @@ table{
 }
 
 th{
-    border-right: 2px solid #6B342F;
-    background-color: #6B342F;
+    border-right: 2px solid #733838;
+    background-color: #733838;
     color: white;
 }
 
